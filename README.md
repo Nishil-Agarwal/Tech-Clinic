@@ -1,4 +1,4 @@
-Project is Stored in CS_Project.py
+Project is Stored in Tech_Clinic.py
 
 This Project requires you to have MySQL to be installed on your PC.
 
