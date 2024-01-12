@@ -1,4 +1,5 @@
 Project is Stored in CS_Project.py
+
 This Project requires you to have MySQL to be installed on your PC.
 
 For it to work properly :- 
